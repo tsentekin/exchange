@@ -1,0 +1,69 @@
+Received: from FR2P281MB1820.DEUP281.PROD.OUTLOOK.COM (2603:10a6:d10:3f::13)
+ by FR0P281MB2861.DEUP281.PROD.OUTLOOK.COM with HTTPS; Mon, 22 Jul 2024
+ 11:57:20 +0000
+Authentication-Results: dkim=none (message not signed)
+ header.d=none;dmarc=none action=none header.from=sefe.eu;
+Received: from FR6P281MB3611.DEUP281.PROD.OUTLOOK.COM (2603:10a6:d10:c4::14)
+ by FR2P281MB1820.DEUP281.PROD.OUTLOOK.COM (2603:10a6:d10:3f::13) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7784.20; Mon, 22 Jul
+ 2024 11:57:12 +0000
+Received: from FR6P281MB3611.DEUP281.PROD.OUTLOOK.COM
+ ([fe80::106e:7f5b:bc7d:8b1b]) by FR6P281MB3611.DEUP281.PROD.OUTLOOK.COM
+ ([fe80::106e:7f5b:bc7d:8b1b%4]) with mapi id 15.20.7784.017; Mon, 22 Jul 2024
+ 11:57:12 +0000
+Content-Type: application/ms-tnef; name="winmail.dat"
+Content-Transfer-Encoding: binary
+From: Nina Wagner <Nina.Wagner@sefe.eu>
+To: =?iso-8859-1?Q?Julia_W=E4hnert?= <Julia.Waehnert@sefe.eu>
+Subject:
+ =?iso-8859-1?Q?WG:_Einladung_zur_Ausschreibung_f=FCr_S-GARD_Schutzkleidun?=
+ =?iso-8859-1?Q?g_?=
+Thread-Topic:
+ =?iso-8859-1?Q?Einladung_zur_Ausschreibung_f=FCr_S-GARD_Schutzkleidung_?=
+Thread-Index: AdrcAco29ih06O3wQeWWeloIqN68UwAJnXTQAAAX46wAALN0AA==
+Date: Mon, 22 Jul 2024 11:57:12 +0000
+Message-ID:
+ <FR6P281MB3611DCCF69D5AF5D621D0C96FFA82@FR6P281MB3611.DEUP281.PROD.OUTLOOK.COM>
+Accept-Language: de-DE, en-US
+Content-Language: de-DE
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator:
+ <FR6P281MB3611DCCF69D5AF5D621D0C96FFA82@FR6P281MB3611.DEUP281.PROD.OUTLOOK.COM>
+MIME-Version: 1.0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: FR6P281MB3611.DEUP281.PROD.OUTLOOK.COM
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id:
+ a4cc2a0f-fb78-477b-0c4b-08dcaa456c4d
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic:
+ FR6P281MB3611:EE_|FR2P281MB1820:EE_|FR0P281MB2861:EE_
+Return-Path: Nina.Wagner@sefe.eu
+X-MS-Exchange-Organization-ExpirationStartTime: 22 Jul 2024 11:57:12.9451
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Office365-Filtering-Correlation-Id: a4cc2a0f-fb78-477b-0c4b-08dcaa456c4d
+X-Microsoft-Antispam: BCL:0;ARA:13230040|366016|41050700001;
+X-Forefront-Antispam-Report:
+ CIP:255.255.255.255;CTRY:;LANG:de;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:FR6P281MB3611.DEUP281.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:(13230040)(366016)(41050700001);DIR:INT;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 22 Jul 2024 11:57:12.5687
+ (UTC)
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-CrossTenant-Id: 213c2807-792f-48e1-924a-eac984ef3354
+X-MS-Exchange-CrossTenant-AuthSource: FR6P281MB3611.DEUP281.PROD.OUTLOOK.COM
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-Network-Message-Id: a4cc2a0f-fb78-477b-0c4b-08dcaa456c4d
+X-MS-Exchange-CrossTenant-MailboxType: HOSTED
+X-MS-Exchange-CrossTenant-UserPrincipalName: hDVj1hB0Rji3T/PYm6+T7i5NvTXQSvaPM89SYWqlOM2/5EMmc4ej9tQ/Bqp2JcE+8m4S8HGE5XIXu6wPu48gjw==
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: FR2P281MB1820
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:08.0165154
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.7784.015
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(425001)(930097)(140003);
+X-Microsoft-Antispam-Message-Info:
+	1nGh4ANwuthzSv4pRxKwLFAVsc7Ac2+DvyTbqw5plRdBZ+tLYWSdz9VsFPvX+hWD6FTzF5JtfmB7IFH0Xm/ESmRsVijlVTfiMAcUJR7CmdDt1UWWjsRRh1BqcoJ7KRIwO+gZD7QbIRFdENyHurckyC/Wps99Fv7ejPMve7qU6JayPYW87ERmyMyDtwDzQXayOFmdulrrcTjgncvo12XbQFhWtm1drW/r0PCX7mb/OWLkJwJS2wzm30460SHkF4Pg8YhmjMMgsuov85OlWDgfKDUIN7KDmBtUDEgSZc+WqeS+AVd8I9g+C9zIe8H6cVFYVt25VnOAyuxrPoTUJBFiKSZFDMt8F7UPId4i7MyyNC20E0g9byLlvILddfczw4oz97FWps+tRWWcsikZOd6cHjEvOgirR5aVO+KH66UaRDXzRxS9FTk4bDj6zueZkJs30lVSdnD2Lw5aIBKfAXoVrlOPoWZWiGsuo5SErKS/91DBDs3iP3IFiH0NeysNMKH8p71yLEcaoGd1snhsDshnV5Af1TyH9G3Y8wDp1H3oFxCkar2bPQQQFAYPjtsF6BLbl3HGMhUt1mrxxNf+3Ek/2YBEt1gLiYJA5ijYUTW7p45EZeEE+KOnNtdDrNISqp3qOE1EEwGILsrm09v1IIFszh9qEm4OUwdam5Wc7J7DyHm6F0kXPOov3kVtEkqv1zivKdkBtWRWFf1T7A+GRXM8o7cvOTJm/jPrOt0FOKVs2gWLysrRiJWwsRNFB77TJ9h5hmS8KFMJs0xRseKSzxIl04uoM1y3PiUI8qpQ0c7SPjVZYr/Yfs7RdSBB9uxSww7rABK7HVk9UNayOP35bRdcmQ==
